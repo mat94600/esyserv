@@ -1,0 +1,81 @@
+********************************************************************************
+PACKAGE-LOG: 2014-03-11 16:03:04
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.2
+WORDPRESS:	3.8.1
+PHP INFO:	5.3.8 | SAPI: apache2handler
+SERVER:		Apache/2.2.21 (Win64) PHP/5.3.8 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (1000M default) 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+zds3ycc_commentmeta (0) 
+zds3ycc_comments (1) 
+zds3ycc_duplicator_packages (2) 
+zds3ycc_ig_caticons (0) 
+zds3ycc_links (0) 
+zds3ycc_options (189) 
+zds3ycc_postmeta (711) 
+zds3ycc_posts (260) 
+zds3ycc_term_relationships (37) 
+zds3ycc_term_taxonomy (6) 
+zds3ycc_terms (6) 
+zds3ycc_usermeta (32) 
+zds3ycc_users (1) 
+SQL CREATED: 20140226_axaltec_531f33b8403c83246140311160304_database.sql 
+SQL FILE SIZE: 647.45KB 
+SQL RUNTIME: 0.13 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  G:/wamp/www/axaltec 
+ARCHIVE FILE: 20140226_axaltec_531f33b8403c83246140311160304_archive.zip 
+FILTER DIRS:   
+FILTER EXTS:   
+---------------------------------------- 
+SCANNING 
+FILTERS *OFF* 
+STATS:	Dirs 335 | Files 2453 | Links 0 
+SIZE:	31.81MB 
+TIME:	2.93 sec. 
+---------------------------------------- 
+COMPRESSING 
+SQL ADDED: 20140226_axaltec_531f33b8403c83246140311160304_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2789
+    [filename] => G:\wamp\www\axaltec\wp-snapshots\tmp\20140226_axaltec_531f33b8403c83246140311160304_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 12.9MB 
+ARCHIVE RUNTIME: 4.80 sec. 
+
+******************************************************************************** 
+INSTALLER: 
+******************************************************************************** 
+INSTALLER FILE: Build Start 
+INSTALLER FILE: Build Finished 
+INSTALLER FILE: Preping for use 
+INSTALLER FILE: Template parsed with new data 
+INSTALLER FILE: Complete [G:/wamp/www/axaltec/wp-snapshots/tmp/20140226_axaltec_531f33b8403c83246140311160304_installer.php] 
+
+********************************************************************************
+RECORD ID:[2]
+FILE SIZE: Archive:12.9MB | SQL:647.45KB | Installer:408.47KB
+TOTAL PROCESS RUNTIME: 5.01 sec.
+DONE PROCESSING => 20140226_axaltec 2014-03-11 16:03:09
+********************************************************************************
+ 
